@@ -7,6 +7,9 @@ import net.minecraft.client.renderer.blockentity.BlockEntityRenderer;
 
 import javax.annotation.Nonnull;
 
+/**
+ * Renderer for the Painted Glowstone Tile
+ */
 public class RenderPaintedGlowstone implements BlockEntityRenderer<TilePaintedGlowstone> {
 
     @Override
