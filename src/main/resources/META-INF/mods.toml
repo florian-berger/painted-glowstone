@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+issueTrackerURL="https://github.com/florian-berger/painted-glowstone/issues"
+
+[[mods]]
+modId="paintedglowstone"
+version="${file.jarVersion}"
+displayName="Painted Glowstone"
+displayURL="https://berger-media.biz/downloads/11/minecraft/painted-glowstone"
+logoFile="paintedglowstone.png"
+authors="Florian <UltimateG4ming> Berger"
+description='''
+This mod is adding painted glowstone to the game. Just construct a "base block" and then paint it with the Painting Roller.
+'''
+
+[[dependencies.paintedglowstone]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.paintedglowstone]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.paintedglowstone]]
+    modId="libx"
+    mandatory=true
+    versionRange="[1.19.2-4.2.5,)"
+    ordering="NONE"
+    side="BOTH"

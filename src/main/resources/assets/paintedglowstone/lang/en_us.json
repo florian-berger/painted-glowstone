@@ -1,0 +1,14 @@
+{
+  "itemGroup.paintedglowstone": "Painted Glowstone",
+
+  "item.paintedglowstone.painting_roll": "Painting roller",
+
+  "block.paintedglowstone.painted_glowstone": "Painted glowstone",
+
+  "tooltip.paintedglowstone.no_block_stored": "No style copied",
+  "tooltip.paintedglowstone.block_stored": "Copied style: %s",
+  "tooltip.paintedglowstone.painted_glowstone_block": "Use a 'Painting roller' to paint this block.",
+
+  "paintedglowstone.message.cant_copy_from_glowstone_block": "Can't copy from Painted glowstone block. Please use another block.",
+  "paintedglowstone.message.copied_block": "Copied block: %s"
+}

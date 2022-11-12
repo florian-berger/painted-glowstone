@@ -1,0 +1,14 @@
+{
+  "itemGroup.paintedglowstone": "Bemalter Leuchtstein",
+
+  "item.paintedglowstone.painting_roll": "Maler-Rolle",
+
+  "block.paintedglowstone.painted_glowstone": "Bemalter Leuchtstein",
+
+  "tooltip.paintedglowstone.no_block_stored": "Kein Style kopiert",
+  "tooltip.paintedglowstone.block_stored": "Kopierter Style: %s",
+  "tooltip.paintedglowstone.painted_glowstone_block": "Verwende eine \"Maler-Rolle\", um diesen Block zu bemalen.",
+
+  "paintedglowstone.message.cant_copy_from_glowstone_block": "Kopieren von bemaltem Leuchtstein nicht möglich. Bitte einen anderen Block verwenden.",
+  "paintedglowstone.message.copied_block": "Block kopiert: %s"
+}
