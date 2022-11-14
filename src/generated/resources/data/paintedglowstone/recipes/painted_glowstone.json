@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "g": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    " s ",
+    "sgs",
+    " s "
+  ],
+  "result": {
+    "item": "paintedglowstone:painted_glowstone"
+  }
+}
