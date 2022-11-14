@@ -45,7 +45,7 @@ public class RecipesProvider extends RecipeProviderBase implements CraftingExten
                 " wg",
                 " sw",
                 "s  ",
-                'a', Items.GLOWSTONE_DUST,
+                'g', Items.GLOWSTONE_DUST,
                 's', Tags.Items.RODS_WOODEN,
                 'w', woolColors);
     }
