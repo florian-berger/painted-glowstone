@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "libx:all",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "chance": 0.3,
+                  "condition": "minecraft:random_chance"
+                }
+              ],
+              "name": "paintedglowstone:painting_roll"
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "chance": 0.03,
+                  "condition": "minecraft:random_chance"
+                }
+              ],
+              "functions": [
+                {
+                  "add": false,
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "max": 3.0,
+                    "min": 1.0
+                  },
+                  "function": "minecraft:set_count"
+                }
+              ],
+              "name": "paintedglowstone:painted_glowstone"
+            }
+          ]
+        }
+      ],
+      "name": "main",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "paintedglowstone:addition",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/simple_dungeon"
+    }
+  ],
+  "loot_table": "paintedglowstone:chests/additions_abandoned_mineshaft"
+}

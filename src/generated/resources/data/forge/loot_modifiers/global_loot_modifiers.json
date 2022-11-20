@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "paintedglowstone:additions_nether_bridge",
+    "paintedglowstone:additions_bastion_other",
+    "paintedglowstone:additions_bastion_treasure",
+    "paintedglowstone:additions_abandoned_mineshaft",
+    "paintedglowstone:additions_bastion_hoglin_stable",
+    "paintedglowstone:additions_bastion_bridge",
+    "paintedglowstone:additions_simple_dungeon",
+    "paintedglowstone:additions_ruined_portal"
+  ],
+  "replace": false
+}
