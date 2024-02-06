@@ -2,6 +2,10 @@
 [![CurseForge](https://cf.way2muchnoise.eu/full_702508_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/painted-glowstone) [![CurseForge](https://cf.way2muchnoise.eu/versions/For%20MC_702508_all.svg)](https://www.curseforge.com/minecraft/mc-mods/painted-glowstone) [![Issues](https://img.shields.io/github/issues/florian-berger/painted-glowstone)](https://github.com/florian-berger/painted-glowstone)
 
 
+> [!WARNING]  
+> This repository is archived and no longer unter active maintenance. Please consider using the "Painted Glowstone" block from [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io).
+
+
 Welcome to the source repository of the Minecraft modification **Painted Glowstone**.
 
 It adds **Painted glowstone** blocks to the game - and so, as the name says, some glowstone blocks that can be painted with other textures. Create a **Painting roller** item and some **Painted glowstone** blocks to start with it.
